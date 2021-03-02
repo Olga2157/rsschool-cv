@@ -32,3 +32,26 @@ function multiply(a, b){
   return a * b
 }
 ```
+## Professional experience
+
+### Studing IT
+_September 2020 - present._
+
+* Student at RSS: February 2020 - present.
+* Online-course ‘Computer Science Basics’ on LEARN Digital Platform from Epam (in progress)
+* Online-course ‘Version Control with Git’ on LEARN Digital Platform from Epam (in progress)
+* Successfully completed the online-course ‘Software Testing Introduction (ENG)’ on LEARN Digital Platform from Epam
+* Basics HTML & CSS from HTML Academy
+* Course “Learn SQL” from codecademy.
+
+### Project manager: 
+_December 2019 — November 2020, Polymedia (System Integration, Technological and Business Processes Automation, IT Consulting), Saint Petersburg, Russia._
+
+B2B sales. Negotiate with IT-directors, business development managers, entrepreneurs. Manage and control the work of engineers. Write commercial offers, create presentations of projects, win different tenders. Control costs.\
+Participation in professional conferences and forums.
+
+### Key Account Manager: 
+_September 2015 — august 2019, CDEK, Nizhny Novgorod, Russia_
+
+Negotiate with e-commerce directors, logistics directors, business development managers, entrepreneurs.\
+Launch individual projects (improvement logistics, online sales, IT-integration). Provide with lists of requirements for colleagues from warehouses, logistics and IT-department. Control the schedule of delivery. Resolve any issues faced by customers. Serve as the link of communication between key customers and internal teams.

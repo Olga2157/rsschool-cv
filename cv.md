@@ -10,3 +10,16 @@ I studied the “global business” course at the University and worked in teams
 
 I’m interested in front-end and QA. I’m able to grasp new ideas quickly. I have studied the __basics of HTML, CSS, SQL__.\
 I have successfully completed __the course ‘Software Testing Introduction’__ from Epam. Now I’m a student at JS __RSS__.
+## CORE COMPETENCIES
+### Hard skills:
+
+* _Programming languages:_ Basics HTML & CSS, JS, SQL (select, join, union, DML - Insert, update, delete)
+* _Platforms:_ Linux, MacOs, Windows (command line basics)
+* _Technologies:_ Git, Bitrix24, AmoCRM, JIRA
+* _Databases:_ PostgreSQL
+
+### Soft skills:
+* Negotiations
+* Presentational skills
+* Group work 
+* Cultural awareness

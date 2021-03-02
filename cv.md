@@ -72,3 +72,12 @@ Language courses (specialisation:_interpreter_), Nizhny Novgorod Lobachevsky Sta
 BA Degree in Economics (specialization: _World Economy_)
 Nizhny Novgorod Lobachevsky State University (National Research University), Nizhny Novgorod, Russia.  
 
+## Languages 
+1. Russian — Native
+2. English — B1-B2 Intermediate 
+
+### *Language practice:*
+The working language of the master specialization «Global Business» is English. \
+The specialization is realized on the base academic mobility program of three universities - Higher School of Economics – Nizhny Novgorod (Russia), Johannes Kepler University in Linz (Austria) and University of Bergamo (Italy).
+
+I worked in multi-cultural teams with students from Austria and Italy. We developed business projects for Italian companies in multicultural teams. The project was connected with developing an entry strategy the Chinese market. We made an overview of China, market analysis, described distribution channels (traditional and online), customer behaviour, competitor analysis and offered the marketing plan, entry strategies and recommendations. The project was evaluated highly (28.5 of 30).

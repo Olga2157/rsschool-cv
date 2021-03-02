@@ -10,7 +10,7 @@ I studied the “global business” course at the University and worked in teams
 
 I’m interested in front-end and QA. I’m able to grasp new ideas quickly. I have studied the __basics of HTML, CSS, SQL__.\
 I have successfully completed __the course ‘Software Testing Introduction’__ from Epam. Now I’m a student at JS __RSS__.
-## CORE COMPETENCIES
+## Core competencies
 ### Hard skills:
 
 * _Programming languages:_ Basics HTML & CSS, JS, SQL (select, join, union, DML - Insert, update, delete)
@@ -23,3 +23,12 @@ I have successfully completed __the course ‘Software Testing Introduction’__
 * Presentational skills
 * Group work 
 * Cultural awareness
+
+## Code examples
+_in progress_\
+Example:
+```
+function multiply(a, b){
+  return a * b
+}
+```

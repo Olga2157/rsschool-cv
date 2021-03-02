@@ -40,7 +40,7 @@ _September 2020 - present._
 * Student at RSS: February 2020 - present.
 * Online-course ‘Computer Science Basics’ on LEARN Digital Platform from Epam (in progress)
 * Online-course ‘Version Control with Git’ on LEARN Digital Platform from Epam (in progress)
-* Successfully completed the online-course ‘Software Testing Introduction (ENG)’ on LEARN Digital Platform from Epam
+* Successfully completed the online-course [‘Software Testing Introduction (ENG)’](https://learn.epam.com/detailsPage?id=744c27ca-8961-409c-9f8b-5a906b552c5b) on LEARN Digital Platform from Epam
 * Basics HTML & CSS from HTML Academy
 * Course “Learn SQL” from codecademy.
 
@@ -55,3 +55,20 @@ _September 2015 — august 2019, CDEK, Nizhny Novgorod, Russia_
 
 Negotiate with e-commerce directors, logistics directors, business development managers, entrepreneurs.\
 Launch individual projects (improvement logistics, online sales, IT-integration). Provide with lists of requirements for colleagues from warehouses, logistics and IT-department. Control the schedule of delivery. Resolve any issues faced by customers. Serve as the link of communication between key customers and internal teams.
+
+## Education
+
++ _September 2013 - June 2015_\
+MA Degree in Management (specialization: _Global business_), 
+Higher School of Economics (National Research University), Nizhny Novgorod, Russia.\
+Academic *mobility programs*: \
+  1. _January-March 2014:_ Johannes Kepler University Linz (Austria);
+  2. _April-June 2014:_ University of Bergamo (Italy)  
+
++ _September 2010 - May 2013_
+Language courses (specialisation:_interpreter_), Nizhny Novgorod Lobachevsky State University (National Research University), Nizhny Novgorod, Russia.  
+
++ _September 2009 - June 2013_  
+BA Degree in Economics (specialization: _World Economy_)
+Nizhny Novgorod Lobachevsky State University (National Research University), Nizhny Novgorod, Russia.  
+

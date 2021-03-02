@@ -1,8 +1,9 @@
 # **Olga Golyakova**
 #### Citizenship: Russia
-## Contacts:
-* +7 (904) 901-73-85 \
+## Contacts
+* +7 (904) 901-73-85 
 * insight2057@mail.ru — preferred means of communication
+
 ## Personal profile
 _Open-minded, hard-working and responsible_ person with 4+ years experience in B2B sales and logistics. With a passion for e-commerce, I helped to organize logistics processes for top Russian online shops of music instruments, fashion wear, outdoor equipment. I have an analytical and customer-focused approach to challenges.
 
@@ -25,7 +26,8 @@ I have successfully completed __the course ‘Software Testing Introduction’__
 * Cultural awareness
 
 ## Code examples
-_in progress_\
+_in progress_
+
 Example:
 ```
 function multiply(a, b){
@@ -34,18 +36,18 @@ function multiply(a, b){
 ```
 ## Professional experience
 
-### Studing IT
+### Studying IT:
 _September 2020 - present._
 
-* Student at RSS: February 2020 - present.
+* Student at RSS: February 2020 - present
 * Online-course ‘Computer Science Basics’ on LEARN Digital Platform from Epam (in progress)
 * Online-course ‘Version Control with Git’ on LEARN Digital Platform from Epam (in progress)
 * Successfully completed the online-course [‘Software Testing Introduction (ENG)’](https://learn.epam.com/detailsPage?id=744c27ca-8961-409c-9f8b-5a906b552c5b) on LEARN Digital Platform from Epam
 * Basics HTML & CSS from HTML Academy
-* Course “Learn SQL” from codecademy.
+* Course “Learn SQL” from codecademy
 
 ### Project manager: 
-_December 2019 — November 2020, Polymedia (System Integration, Technological and Business Processes Automation, IT Consulting), Saint Petersburg, Russia._
+_December 2019 — November 2020, Polymedia (System Integration, Technological and Business Processes Automation, IT Consulting), Saint Petersburg, Russia_
 
 B2B sales. Negotiate with IT-directors, business development managers, entrepreneurs. Manage and control the work of engineers. Write commercial offers, create presentations of projects, win different tenders. Control costs.\
 Participation in professional conferences and forums.
@@ -61,8 +63,8 @@ Launch individual projects (improvement logistics, online sales, IT-integration)
 + _September 2013 - June 2015_\
 MA Degree in Management (specialization: _Global business_), 
 Higher School of Economics (National Research University), Nizhny Novgorod, Russia.\
-Academic *mobility programs*: \
-  1. _January-March 2014:_ Johannes Kepler University Linz (Austria);
+Academic *mobility programs*: 
+  1. _January-March 2014:_ Johannes Kepler University Linz (Austria)
   2. _April-June 2014:_ University of Bergamo (Italy)  
 
 + _September 2010 - May 2013_
@@ -81,3 +83,5 @@ The working language of the master specialization «Global Business» is English
 The specialization is realized on the base academic mobility program of three universities - Higher School of Economics – Nizhny Novgorod (Russia), Johannes Kepler University in Linz (Austria) and University of Bergamo (Italy).
 
 I worked in multi-cultural teams with students from Austria and Italy. We developed business projects for Italian companies in multicultural teams. The project was connected with developing an entry strategy the Chinese market. We made an overview of China, market analysis, described distribution channels (traditional and online), customer behaviour, competitor analysis and offered the marketing plan, entry strategies and recommendations. The project was evaluated highly (28.5 of 30).
+
+If you have any further questions, please don't hesitate to contact me.

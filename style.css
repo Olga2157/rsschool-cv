@@ -1,0 +1,19 @@
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 16px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.block {
+  text-align: center;
+}

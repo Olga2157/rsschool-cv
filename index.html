@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="block">
+    <div class="wrapper">
       <header>
         <h1>Olga Golyakova</h1>
       </header>
@@ -18,7 +18,7 @@
       </section>
 
       <section>
-        <h2>Contacts</h2>
+        <h2><a name="contacts"></a>Contacts</h2>
         <ul>
           <li>+7 (904) 901-73-85</li>
           <li>
@@ -56,14 +56,15 @@
       <section>
         <h2>Core competencies</h2>
 
-        <h3>Hard skills:</h3>
+        <h3 class="key-ideas">Hard skills:</h3>
         <ul>
           <li>
-            <i>Programming languages:</i> Basics HTML & CSS, JS, SQL (select,
-            join, union, DML - Insert, update, delete)
+            <i>Programming languages:</i> Basics HTML & CSS, JS, TS, SQL
+            (select, join, union, DML - Insert, update, delete)
           </li>
           <li><i>Platforms: </i>Linux, MacOs, Windows (command line basics)</li>
-          <li><i>Technologies:</i> Git, Bitrix24, AmoCRM, JIRA</li>
+          <li><i>Technologies:</i> Git, basics React, Redux</li>
+          <li><i>Tools:</i> Figma, Bitrix24, AmoCRM, JIRA,</li>
           <li><i>Databases:</i> PostgreSQL</li>
         </ul>
 
@@ -76,32 +77,42 @@
         </ul>
       </section>
 
-      <section>
-        <h2>Code examples</h2>
-        <p class="italic">in progress</p>
-        <p>Example:</p>
-        <pre>
-				function multiply(a, b){
-					return a * b
-				  }
-				</pre
-        >
+      <section class="portfolio">
+        <h2 class="key-ideas">Code examples</h2>
+        <p>
+          <a href="https://github.com/Olga2157/online-zoo">Online-zoo</a>
+        </p>
+        <p>
+          <a href="https://github.com/Olga2157/photo-filter">Photo-filter</a>
+        </p>
+        <p>
+          <a href="https://github.com/Olga2157/match-match-game"
+            >Match-match-game</a
+          >
+        </p>
+        <p>
+          <a href="https://github.com/Olga2157/async-race">Async-race</a>
+        </p>
+        <p>
+          <a href="https://github.com/Olga2157/chess">Chess</a>
+        </p>
       </section>
 
       <section>
         <h2>Professional experience</h2>
         <h3>Studying IT:</h3>
 
-        <b><i>September 2020 - present</i></b>
+        <b><i>September 2020 - present </i></b>
         <ul>
-          <li>Student at RSS: February 2020 - present</li>
-          <li>
-            Online-course ‘Computer Science Basics’ on LEARN Digital Platform
-            from Epam (in progress)
-          </li>
-          <li>
-            Online-course ‘Version Control with Git’ on LEARN Digital Platform
-            from Epam (in progress)
+          <li>Student at RSS: February 2021 - present (studying JS, React)</li>
+          <li class="key-ideas">
+            <i>February 2021 - July 2021 </i>
+            Successfully completed
+            <a href="https://rs.school/js/">The Rolling Scopes School</a>
+            "JavaScript/Front-end" (Top 100 students 2021Q1)
+            <a href="https://app.rs.school/certificate/c9y7khep"
+              >digital version of certificate</a
+            >
           </li>
           <li>
             Successfully completed the online-course
@@ -193,7 +204,7 @@
           <li>English — B1-B2 Intermediate</li>
         </ol>
 
-        <h3>Language practice:</h3>
+        <h3 class="key-ideas">Language practice:</h3>
         <p>
           The working language of the master specialization «Global Business» is
           English. The specialization is realized on the base academic mobility
@@ -216,18 +227,15 @@
         <details>
           <summary>Questions?</summary>
           <p>
-            If you have any further questions, please don’t hesitate to contact
-            me.
+            If you have any further questions, please don’t hesitate to
+            <a href="#contacts">contact me.</a>
           </p>
         </details>
       </section>
 
       <footer>
         <a href="https://github.com/Olga2157">Github Account</a>
-        <data value="2021">2021</data>
-        <a href="https://rs.school/js/"
-          ><img src="img/logo_rs_school_js.svg" width="120" alt="RSS logo" />
-        </a>
+        <!-- <data value="2021">2021</data> -->
       </footer>
     </div>
   </body>

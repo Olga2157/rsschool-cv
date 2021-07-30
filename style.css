@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  outline: none;
+}
+
 h1 {
   font-size: 28px;
   font-weight: bold;
@@ -6,6 +13,7 @@ h1 {
 h2 {
   font-size: 20px;
 }
+
 h3 {
   font-size: 16px;
 }
@@ -14,6 +22,30 @@ h3 {
   font-style: italic;
 }
 
-.block {
+.wrapper {
+  position: relative;
+  width: 80%;
   text-align: center;
+  margin: 0 auto;
+}
+
+ul, ol {
+  position: relative;
+  margin: 0 auto;
+  width: 50%;
+  text-align: left;
+  padding: 5px 0px;
+}
+
+.portfolio {
+  position: relative;
+  margin: 0 auto;
+  width: 50%;
+  background-color: aquamarine;
+  border-radius: 50%;
+}
+
+.key-ideas {
+  color: rgb(9, 9, 97);
+  font-weight: bold;
 }

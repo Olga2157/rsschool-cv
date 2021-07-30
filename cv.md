@@ -14,9 +14,10 @@ I have successfully completed __the course ‘Software Testing Introduction’__
 ## Core competencies
 ### Hard skills:
 
-* _Programming languages:_ Basics HTML & CSS, JS, SQL (select, join, union, DML - Insert, update, delete)
+* _Programming languages:_ Basics HTML & CSS, JS, TS, SQL  (select, join, union, DML - Insert, update, delete)
 * _Platforms:_ Linux, MacOs, Windows (command line basics)
-* _Technologies:_ Git, Bitrix24, AmoCRM, JIRA
+* _Technologies:_ Git, basics React, Redux
+* _Tools:_ Figma, Bitrix24, AmoCRM, JIRA
 * _Databases:_ PostgreSQL
 
 ### Soft skills:
@@ -26,7 +27,7 @@ I have successfully completed __the course ‘Software Testing Introduction’__
 * Cultural awareness
 
 ## Code examples
-_in progress_
+
 
 Example:
 ```
@@ -35,13 +36,18 @@ function multiply(a, b){
 }
 ```
 ## Professional experience
+* [Online-zoo](https://github.com/Olga2157/online-zoo)
+* [Photo-filter](https://github.com/Olga2157/photo-filter)
+* [Match-match-game](https://github.com/Olga2157/match-match-game)
+* [Async-race](https://github.com/Olga2157/async-race)
+* [Chess](https://github.com/Olga2157/chess)
+
 
 ### Studying IT:
 _September 2020 - present._
 
-* Student at RSS: February 2020 - present
-* Online-course ‘Computer Science Basics’ on LEARN Digital Platform from Epam (in progress)
-* Online-course ‘Version Control with Git’ on LEARN Digital Platform from Epam (in progress)
+* Student at RSS: February 2021 - present (studying JS, React)
+* February 2021 - July 2021 Successfully completed The Rolling Scopes School "JavaScript/Front-end" (Top 100 students 2021Q1) [digital version of certificate](https://app.rs.school/certificate/c9y7khep)
 * Successfully completed the online-course [‘Software Testing Introduction (ENG)’](https://learn.epam.com/detailsPage?id=744c27ca-8961-409c-9f8b-5a906b552c5b) on LEARN Digital Platform from Epam
 * Basics HTML & CSS from HTML Academy
 * Course “Learn SQL” from codecademy
